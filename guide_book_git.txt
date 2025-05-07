@@ -1,0 +1,17 @@
+no 1: 
+
+jika ingin ambil perubahan di branch itu pake git merge origin/<nama branch nya>
+
+no 2 :
+
+pengen ambil semua perubahan di repo pake git fetch origin
+
+no 3 :
+
+jika ingin switch branch yang sedang ada perubahan pake git add dan git commit terlebih dahulu
+
+no 4 :
+jika  pengen ambil perubahan ke file local kita pake git pull origin <branch nya>
+
+no 5 : 
+pastikan gk ada yang conflict
